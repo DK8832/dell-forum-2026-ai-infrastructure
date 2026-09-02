@@ -1,0 +1,18 @@
+IMR_UPLOAD_ITEM:
+  title: "Dell Forum 2026 현장 체험과 AI 인프라 탐색"
+  description: "Dell Technologies Forum 2026 현장 방문을 계기로 AI 인프라를 데이터·연산·저장·플랫폼·운영의 5개 층으로 구조화하고, 사실·증빙·사후 학습을 구분한 탐색 기록."
+  type: "Editor"
+  group: "진로"
+  visibility: "공개"
+  body_html: "docs/IMR_BODY.html"
+  thumbnail_path: "output/DellForum2026_thumbnail.png"
+  attachments:
+    - "output/dell-forum-2026-ai-infrastructure.zip"
+    - "output/DellForum2026_AI인프라_현장체험_포트폴리오.pdf"
+  prohibited_claims:
+    - "모든 세션 참석"
+    - "특정 제품 직접 조작"
+    - "성능 측정 완료"
+    - "수상 또는 인증"
+
+
